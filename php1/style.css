@@ -1,0 +1,64 @@
+/* General Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  /* Header Styling */
+  header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Navigation Button Styling */
+  nav a {
+    text-decoration: none;
+  }
+  
+  nav button {
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  nav button:hover {
+    background-color: #3498db;
+  }
+  
+  /* Content Styling */
+  #content {
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  #content img {
+    width: 50%;
+    max-width: 500px;
+    margin-top: 20px;
+  }
+  
+  /* Footer Styling */
+  footer {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  
